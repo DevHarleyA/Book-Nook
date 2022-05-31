@@ -1,0 +1,32 @@
+body, .title {
+    font-family: 'Tiro Kannada'
+}
+
+.cust1 {
+    width: 50%;
+    margin: 1%;
+}
+
+.jumbotron, .cust {
+    background-color: rgb(63, 118, 118);
+    color: white;
+}
+
+.index, .login, .profile, .signUp {
+    background-color: black;
+}
+
+.space {
+    margin: 1%;
+}
+
+.book {
+    margin: 1%;
+}
+
+
+.custTwo {
+    color: lightgray;
+    background-color: rgb(63, 118, 118);
+}
+
